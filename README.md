@@ -19,10 +19,7 @@ Calcolatrice Matriciale sviluppata in C per tutte le operazioni con le matrici e
 > [!WARNING]
 > Corretto funzionamento dell'UI non garantito
 
-#### Support Me
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
+---
 
 
 ## Snippet Laplace Algorithm
