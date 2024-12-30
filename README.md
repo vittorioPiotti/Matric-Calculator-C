@@ -10,7 +10,7 @@ Calcolatrice Matriciale sviluppata in C per tutte le operazioni con le matrici e
 
 
 > [!NOTE]
-> Progetto scolastico 🎓
+> Progetto scolastico 🎓 · Ⅲ
 
 
 > [!TIP]
